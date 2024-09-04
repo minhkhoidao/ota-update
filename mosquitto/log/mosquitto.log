@@ -1,0 +1,6 @@
+1725461436: mosquitto version 2.0.18 starting
+1725461436: Config loaded from /mosquitto/config/mosquitto.conf.
+1725461436: Opening ipv4 listen socket on port 1883.
+1725461436: Opening ipv6 listen socket on port 1883.
+1725461436: Opening websockets listen socket on port 9001.
+1725461436: mosquitto version 2.0.18 running
